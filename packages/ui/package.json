@@ -1,11 +1,11 @@
 {
-  "name": "@acme/ui",
+  "name": "@webbie/ui",
   "version": "0.0.0",
   "sideEffects": false,
   "license": "MIT",
   "exports": {
     "./button": {
-      "types": "./src/button.tsx",
+      "types": "./src/Button/Button.tsx",
       "import": "./dist/button.mjs",
       "require": "./dist/button.js"
     }
